@@ -24,9 +24,6 @@ Repository structure
 ├── notebooks
 │   ├── lazypredict
 │   ├── vertex
-│   │   ├── treinamento
-│   │   ├── modelo
-│   │   ├── ...
 ├── src
 ```
 
