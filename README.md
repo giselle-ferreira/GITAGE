@@ -1,26 +1,45 @@
-# GITAGE LAZYPREDICT & VERTEX
+## GITAGE Lazypredict & Vertex
 
-## Necessidade de Negócio
-Identificar melhores alunos de todas as turmas.
+<strong>Equipe desenvolvedora</strong>
+*  Geovani Lima
+*  Giselle Ferreira
+*  Talita Fernandes
 
-## Ferramentas para escolha de algoritmo
-Lazypredict e Vertex
+<strong> Instrutora
+*  Franciane Rodrigues
 
-## Canva
+<strong>Curso</strong>
+*  SoulMaster Inteligência Artificial
 
-<div align=center>
-  ![Canva](https://)
-</div>
+<strong>Instituição</strong>
+*  SoulCoude Academy
 
+<hr>
 
-Visão geral
-The repository contains notebooks and community content that demonstrate how to develop and manage ML workflows using Google Cloud Vertex AI.
-
+<strong>Visão geral do repositório</strong>
 Repository structure
-├── community-content - Sample code and tutorials contributed by the community
+
+```
+├── apresentacao
 ├── notebooks
-│   ├── community - Notebooks contributed by the community
-│   ├── official - Notebooks demonstrating use of each Vertex AI service
-│   │   ├── automl
-│   │   ├── custom
+│   ├── lazypredict
+│   ├── vertex
+│   │   ├── treinamento
+│   │   ├── modelo
 │   │   ├── ...
+├── src
+```
+
+<hr>
+
+<strong>Desafio</strong>
+Criar score para classificar melhores alunos.
+
+<strong>Ferramentas utilizadas</strong>
+*  Lazypredict
+*  Vertex
+
+<strong>Canva</strong>
+
+![Canva](https://github.com/TalitaDevsPuc/GITAGE/blob/main/src/img/canva.PNG)
+
