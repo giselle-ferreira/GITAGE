@@ -29,7 +29,7 @@ Repository structure
 
 <hr>
 
-<strong>Desafio</strong>
+<strong>Desafio</strong><br>
 Criar score para classificar melhores alunos.
 
 <strong>Ferramentas utilizadas</strong>
