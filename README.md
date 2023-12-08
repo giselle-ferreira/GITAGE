@@ -1,23 +1,28 @@
-## GITAGE Lazypredict & Vertex
+![BannerGitage](https://i.postimg.cc/59QFWwrS/image.png)
 
-<strong>Equipe desenvolvedora</strong>
+## Equipe desenvolvedora
 *  Geovani Lima
 *  Giselle Ferreira
 *  Talita Fernandes
 
-<strong> Instrutora
+<br/>
+
+## Instrutora
 *  [Franciane Rodrigues](https://github.com/francianerod)
 
-<strong>Curso</strong>
+<br/>
+
+## Curso
 *  SoulMaster Inteligência Artificial
 
-<strong>Instituição</strong>
+<br/>
+
+## Instituição
 *  SoulCoude Academy
 
-<hr>
+<br/>
 
-<strong>Visão geral do repositório</strong>
-Repository structure
+## Visão geral do repositório
 
 ```
 ├── apresentacao
@@ -27,20 +32,32 @@ Repository structure
 ├── src
 ```
 
-<hr>
+<br/>
 
-<strong>Desafio</strong><br>
+## Desafio
 Criar score para classificar melhores alunos.
 
-<strong>Ferramentas utilizadas</strong>
+<br/>
+
+## Ferramentas utilizadas
 *  Lazypredict
 *  Vertex
+  
+<br/>
 
-Links:
+## Links:
 *  Documentação Lazypredict: https://raizenacelera.atlassian.net/wiki/external/NzE0YTgzODhiMjRjNGYxZGIzMTVlOWZlNTdmNmMyNTE
 *  Colab GITAGE: https://colab.research.google.com/drive/10BunHAv77vlc31UEexPLdLEPw6oyM21F?usp=sharing
 
-Canva
+  <br/>
+
+## Canva
 
 ![Canva](https://github.com/TalitaDevsPuc/GITAGE/blob/main/src/img/canva.PNG)
+
+<br/>
+
+## Análises Obtidas
+
+![Analise](https://i.postimg.cc/rmbZHSPP/image.png)
 
