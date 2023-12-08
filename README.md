@@ -1,9 +1,9 @@
 ![BannerGitage](https://i.postimg.cc/59QFWwrS/image.png)
 
 ## Equipe desenvolvedora
-*  Geovani Lima
-*  Giselle Ferreira
-*  Talita Fernandes
+*  [Geovani Lima](https://www.linkedin.com/in/geovani-lima-bas%C3%ADlio-83598a142/)
+*  [Giselle Ferreira](https://github.com/giselle-ferreira)
+*  [Talita Fernandes](https://github.com/TalitaDevsPuc)
 
 <br/>
 
@@ -18,7 +18,7 @@
 <br/>
 
 ## Instituição
-*  SoulCoude Academy
+*  [SoulCoude Academy](https://soulcode.com/)
 
 <br/>
 
@@ -41,7 +41,7 @@ Criar score para classificar melhores alunos.
 
 ## Ferramentas utilizadas
 *  Lazypredict
-*  Vertex
+*  Vertex AI
   
 <br/>
 
@@ -61,3 +61,8 @@ Criar score para classificar melhores alunos.
 
 ![Analise](https://i.postimg.cc/rmbZHSPP/image.png)
 
+<br/>
+
+## Resultados das Análises
+
+![Analise](https://i.postimg.cc/4xcDCNk3/image.png)
