@@ -6,7 +6,7 @@
 *  Talita Fernandes
 
 <strong> Instrutora
-*  Franciane Rodrigues
+*  [Franciane Rodrigues](https://github.com/francianerod)
 
 <strong>Curso</strong>
 *  SoulMaster Inteligência Artificial
