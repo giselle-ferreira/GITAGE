@@ -48,12 +48,13 @@ Criar score para classificar melhores alunos.
 ## Links:
 *  Documentação Lazypredict: https://raizenacelera.atlassian.net/wiki/external/NzE0YTgzODhiMjRjNGYxZGIzMTVlOWZlNTdmNmMyNTE
 *  Colab GITAGE: https://colab.research.google.com/drive/10BunHAv77vlc31UEexPLdLEPw6oyM21F?usp=sharing
+*  Apresentação: https://github.com/giselle-ferreira/GITAGE/tree/main/apresentacao
 
   <br/>
 
 ## Canva
 
-![Canva](https://github.com/TalitaDevsPuc/GITAGE/blob/main/src/img/canva.PNG)
+![Canva](https://i.postimg.cc/4y7rphKX/image.png)
 
 <br/>
 
