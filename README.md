@@ -48,7 +48,7 @@ Criar score para classificar melhores alunos.
 ## Links:
 *  Documentação Lazypredict: https://raizenacelera.atlassian.net/wiki/external/NzE0YTgzODhiMjRjNGYxZGIzMTVlOWZlNTdmNmMyNTE
 *  Colab GITAGE: https://colab.research.google.com/drive/10BunHAv77vlc31UEexPLdLEPw6oyM21F?usp=sharing
-*  Apresentação: https://github.com/giselle-ferreira/GITAGE/tree/main/apresentacao
+*  Apresentação: https://github.com/giselle-ferreira/GITAGE/blob/main/apresentacao/ESTRAT%C3%89GIA%20-%20CANVA.pdf
 
   <br/>
 
